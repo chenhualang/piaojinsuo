@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="SSMBootstrapDemo:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="SSMBootstrapDemo-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="SSMBootstrapDemo:war exploded" />
+    </root>
+  </artifact>
+</component>
